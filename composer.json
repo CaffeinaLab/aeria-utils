@@ -1,0 +1,13 @@
+{
+    "name": "caffeina/aeria-utils",
+    "type": "wordpress-mu-plugin",
+    "authors": [
+        {
+            "name": "Stefano Azzolini",
+            "email": "stefano.azzolini@caffeina.it"
+        }
+    ],
+    "extra": {
+        "file": "aeria-activator.php"
+    }
+}
